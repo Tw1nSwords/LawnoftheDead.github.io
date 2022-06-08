@@ -1,3 +1,3 @@
 <button>Download</button>
-<button>DiscordSever</button>
+<button>Discord Sever</button>
 <button>GameJolt</button>

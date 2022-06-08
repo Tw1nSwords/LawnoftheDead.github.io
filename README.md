@@ -1,3 +1,3 @@
 <button>Download</button>
-<button>Discord_Sever</button>
+<button>DiscordSever</button>
 <button>GameJolt</button>

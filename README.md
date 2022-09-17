@@ -5,4 +5,4 @@
 
 <a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//gamejolt.com/c/Skatemanjoe-t6ac45" tabindex="0">gamejolt</a>
 
-<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/Skatyman.github.io/more.md" tabindex="0">moreupdate</a>
+<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/Skatyman.github.io/more.md" tabindex="0">moreupdateyeah</a>

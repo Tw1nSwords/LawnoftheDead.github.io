@@ -7,4 +7,4 @@ active
 Stay safe, Check your candy, and Happy halloween!
 
 
-<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/Skatyman.github.io/more" tabindex="0">more</a>
+<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/LawnoftheDead.github.io/more" tabindex="0">more</a>

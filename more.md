@@ -10,4 +10,4 @@ RANDOMEST, Zombies chosen to spawn will be COMEPLETELY random for the next 5 wav
 Sun decrease, sun will no longer fall from the sky and slower sun produce rate
 Special Seed Selection, though you will have a list of already chosen plants, you get to choose a list of SPECIAL plants, Including Potato Gatling, Pumpkin, Tangle Barrier, and (maybe) MORE
 
-<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/Skatyman.github.io/" tabindex="0">back</a>
+<a class="button-f2h6uQ filledBrand-3fai8P filledDefault-25rIra buttonHeightTall-Yz4Cm8 unpaired-GdFe-D" href="//tw1nswords.github.io/LawnoftheDead.github.io/" tabindex="0">back</a>
